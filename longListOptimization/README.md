@@ -1,5 +1,4 @@
-# vue2.x 长列表优化 
+# [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller)
 
-也可以使用第三方库vue-virtual-scroller
 
 
