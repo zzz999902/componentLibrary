@@ -10,6 +10,7 @@ export const columnItems = (clickHandle) => [
     prop: 'age',
     label: '年龄',
     align: 'center',
+    type: 'el-tag',
   },
   {
     prop: 'sex',
